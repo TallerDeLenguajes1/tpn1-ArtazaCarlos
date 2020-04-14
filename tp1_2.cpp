@@ -41,7 +41,7 @@ int main()
         printf("primero= %d\t", primero);
         printf("segundo= %d\n\n", segundo);
         puts("¿Desea ingresar otro par de numeros? y=yes, n=no");
-        fflush(stdin);s
+        fflush(stdin);
         control=getchar();
     }
 
